@@ -1,0 +1,15 @@
+{
+  "login": "on",
+  "admins": {
+    "admin1": {
+      "username": "Chamuwa2006",
+      "password": "Yasiya@1234",
+      "name": "Sadeepa"
+    },
+    "admin2": {
+      "username": "Dark Yasiya",
+      "password": "Yasiya@1234",
+      "name": "Yasiya"
+    }
+  }
+}
