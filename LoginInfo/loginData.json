@@ -1,5 +1,15 @@
 {
   "login": "on",
-  "username": "admin",
-  "password": "admin1234"
+  "admins": {
+    "admin1": {
+      "username": "Chamuwa2006",
+      "password": "Chamuwa@#2006",
+      "name": "Chamuwa"
+    },
+    "admin2": {
+      "username": "Dark Yasiya",
+      "password": "Yasiya@1234",
+      "name": "Yasiya"
+    }
+  }
 }
